@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rita G. Fonseca | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/rita-g.-fonseca/</link>
+      <atom:link href="http://localhost:1313/author/rita-g.-fonseca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rita G. Fonseca</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Rita G. Fonseca</title>
+      <link>http://localhost:1313/author/rita-g.-fonseca/</link>
+    </image>
+    
+    <item>
+      <title>Photodegradable Non‐Drying Hydrogel Substrates for Liquid Metal Based Sustainable Soft‐Matter Electronics</title>
+      <link>http://localhost:1313/publication/fonseca-photodegradable-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fonseca-photodegradable-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facile Synthesis of Highly Stretchable, Tough, and Photodegradable Hydrogels</title>
+      <link>http://localhost:1313/publication/fonseca-facile-2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fonseca-facile-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

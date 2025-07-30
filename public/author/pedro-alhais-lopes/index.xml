@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Alhais Lopes | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/pedro-alhais-lopes/</link>
+      <atom:link href="http://localhost:1313/author/pedro-alhais-lopes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Alhais Lopes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Pedro Alhais Lopes</title>
+      <link>http://localhost:1313/author/pedro-alhais-lopes/</link>
+    </image>
+    
+    <item>
+      <title>High‐Performance Stretchable Gallium Battery for Wearable Electronics, Through Synthesis of Foam Electrodes</title>
+      <link>http://localhost:1313/publication/parvini-highperformance-2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/parvini-highperformance-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replacing the Gallium Oxide Shell with Conductive Ag: Toward a Printable and Recyclable Composite for Highly Stretchable Electronics, Electromagnetic Shielding, and Thermal Interfaces</title>
+      <link>http://localhost:1313/publication/hajalilou-replacing-2024/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hajalilou-replacing-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3R Batteries: Resilient, Repairable, and Recyclable Based on Liquid Gallium Electrode</title>
+      <link>http://localhost:1313/publication/parvini-3-r-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/parvini-3-r-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallium–Carbon: A Universal Composite for Sustainable 3D Printing of Integrated Sensor–Heater–Battery Systems in Wearable and Recyclable Electronics</title>
+      <link>http://localhost:1313/publication/parvini-galliumcarbon-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/parvini-galliumcarbon-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printed Gallium Battery with Outstanding Energy Storage: Toward Fully Printed Battery‐on‐the‐Board Soft Electronics</title>
+      <link>http://localhost:1313/publication/freitas-3-d-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/freitas-3-d-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recyclable liquid metal – Graphene supercapacitor</title>
+      <link>http://localhost:1313/publication/sanati-recyclable-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanati-recyclable-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitally Printable Magnetic Liquid Metal Composite for Recyclable Soft‐Matter Electronics</title>
+      <link>http://localhost:1313/publication/hajalilou-digitally-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hajalilou-digitally-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitally Printed Liquid Metal Composite Antenna for Energy Harvesting: Toward Energy‐Autonomous Battery‐Free Wearable Bioelectronics</title>
+      <link>http://localhost:1313/publication/maranha-digitally-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/maranha-digitally-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Maranha | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/miguel-maranha/</link>
+      <atom:link href="http://localhost:1313/author/miguel-maranha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Maranha</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Miguel Maranha</title>
+      <link>http://localhost:1313/author/miguel-maranha/</link>
+    </image>
+    
+    <item>
+      <title>Biphasic Graphene‐Oxide Liquid Metal Powder: Synthesis, Characterization, and Application in Energy Storage</title>
+      <link>http://localhost:1313/publication/sanati-biphasic-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanati-biphasic-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallium–Carbon: A Universal Composite for Sustainable 3D Printing of Integrated Sensor–Heater–Battery Systems in Wearable and Recyclable Electronics</title>
+      <link>http://localhost:1313/publication/parvini-galliumcarbon-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/parvini-galliumcarbon-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitally Printed Liquid Metal Composite Antenna for Energy Harvesting: Toward Energy‐Autonomous Battery‐Free Wearable Bioelectronics</title>
+      <link>http://localhost:1313/publication/maranha-digitally-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/maranha-digitally-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

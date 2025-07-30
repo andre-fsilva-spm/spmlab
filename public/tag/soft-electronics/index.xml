@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soft Electronics | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/tag/soft-electronics/</link>
+      <atom:link href="http://localhost:1313/tag/soft-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soft Electronics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Soft Electronics</title>
+      <link>http://localhost:1313/tag/soft-electronics/</link>
+    </image>
+    
+    <item>
+      <title>From Conventional Non-Conductive Foams to Soft Piezoresistive Pressure Sensors: A Low-Cost Approach to Large-Area Pressure-Mapping</title>
+      <link>http://localhost:1313/publication/carneiro-conventional-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/carneiro-conventional-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

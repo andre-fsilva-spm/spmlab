@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connectivity | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/tag/connectivity/</link>
+      <atom:link href="http://localhost:1313/tag/connectivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Connectivity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Connectivity</title>
+      <link>http://localhost:1313/tag/connectivity/</link>
+    </image>
+    
+    <item>
+      <title>Deployment and validation of a smart bed architecture for untethered patients with wireless biomonitoring stickers</title>
+      <link>http://localhost:1313/publication/nunes-deployment-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nunes-deployment-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

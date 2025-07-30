@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aníbal Traça de Almeida | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/anibal-traca-de-almeida/</link>
+      <atom:link href="http://localhost:1313/author/anibal-traca-de-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aníbal Traça de Almeida</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/anibal-traca-de-almeida/avatar_hu_df9dd65101b6f025.jpg</url>
+      <title>Aníbal Traça de Almeida</title>
+      <link>http://localhost:1313/author/anibal-traca-de-almeida/</link>
+    </image>
+    
+  </channel>
+</rss>

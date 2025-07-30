@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>J. Norberto Pires Innovation Prize awarded to electronic patches project for monitoring health data</title>
+      <link>http://localhost:1313/post/24-10-01-norbertopires_award/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-10-01-norbertopires_award/</guid>
+      <description>&lt;p&gt;E-skins could be a more practical and durable option for patients who need wearables to monitor health data. The prize was awarded to researchers from the UC Institute of Systems and Robotics.&lt;/p&gt;
+&lt;p&gt;The winner of the 3rd edition of the J. Norberto Pires Innovation Prize, awarded by the University of Coimbra (UC), is the &amp;lsquo;E-Skins&amp;rsquo; project, which focuses on developing electronic patches for biomonitoring health data, such as heartbeat and brain activity. The award was presented on Wednesday, the 25th of September, to researchers Mahmoud Tavakoli, Manuel Reis Carneiro, and Pedro Lopes, from the UC Institute of Systems and Robotics.&lt;/p&gt;
+&lt;p&gt;The winning project offers a more practical and durable solution for patients who need wearable devices for continuous, long-term electrophysiological health monitoring: a type of &amp;rsquo;electronic skin&amp;rsquo; that uses innovative materials and methods and can be worn comfortably for over a week.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;With E-Skins, we propose an innovative architecture of materials and methods for implementing multi-electrode thin-film bioelectronic patches for continuous electrophysiological monitoring over long periods of time. Unlike other existing wearable patches, this solution can be worn for more than a week and is unaffected by daily routines such as exercise or showering. For the electrodes, we use a patented conductive ink that combines the advantages of dry electrodes (printability and material integrity) with the advantages of wet electrodes (high signal quality),&amp;rdquo; the researchers explain.&lt;/p&gt;
+&lt;p&gt;These electronic patches have &amp;lsquo;mechanical properties similar to human skin, improving patient comfort and reducing noise.&amp;rsquo; They also offer other advantages, such as low-cost production and 24/7 remote patient monitoring. &amp;lsquo;Manufacturing based on digital printing techniques allows for implementing low-cost, customised e-adhesives for each patient or application. Additionally, the patch integrates a universal miniaturised electronic system for biopotential sensing via bioadhesive and wireless communication, already demonstrated in a hospital environment. This innovative approach enables 24/7 patient monitoring at home, allowing them to maintain their routines, which speeds up recovery and reduces costs for the healthcare system,&amp;rsquo; explain Mahmoud Tavakoli, Manuel Reis Carneiro, and Pedro Lopes.&lt;/p&gt;
+&lt;p&gt;The jury also awarded two honourable mentions in this edition. One was given to &amp;lsquo;AR73/74 - Antes da Revolução | 1973-1974&amp;rsquo; (AR73/74 - Before the Revolution | 1973-1974), a multimedia project by Clara Almeida Santos and Francisco Sena Santos, based on a series of portraits that depict life in Portugal during the months immediately preceding the revolution of 25 April 1974. The second went to EcoTechLCA, a tool developed by Jade Müller for assessing the environmental sustainability of innovative products and technologies in the early stages of development (i.e., on a laboratory production scale).&lt;/p&gt;
+&lt;p&gt;The J. Norberto Pires Innovation Prize aims to encourage and recognise innovative initiatives designed and developed by students, technical staff, faculty and researchers of the University of Coimbra (UC), or those with academic or professional links to UC.&lt;/p&gt;
+&lt;p&gt;More information is available at &lt;a href=&#34;https://www.uc.pt/premionorbertopires/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.uc.pt/premionorbertopires/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;“O projeto vencedor é um excelente exemplo da qualidade dos projetos de investigação e de inovação desenvolvidos na Universidade de Coimbra, com elevado potencial e orientados para as necessidades da sociedade. Destacou-se justamente entre os distintos candidatos desta edição do Prémio de Inovação J. Norberto Pires”, declara o Reitor da UC, Amílcar Falcão, que presidiu ao júri que atribuiu o galardão.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;O projeto premiado, paradigma da investigação de excelência desenvolvida na UC, honra o legado de promoção da inovação e do empreendedorismo do Professor e membro do Conselho Geral (CG) da UC Norberto Pires, que tão justamente quisemos homenagear com a criação deste galardão&amp;rdquo;, afirma a Presidente do CG, Gabriela Figueiredo Dias, vice-presidente do júri – que foi representada na entrega do prémio por Nuno Moita, membro da Comissão de Inovação, Serviço e Relação com a Comunidade do CG.&lt;/p&gt;
+&lt;p&gt;O Prémio Inovação J. Norberto Pires visa estimular e reconhecer iniciativas inovadoras concebidas e desenvolvidas por alunos, funcionários, docentes ou investigadores da Universidade de Coimbra (ou que apresentem qualquer tipo de vínculo académico ou funcional a esta instituição), constituindo uma homenagem a Joaquim Norberto Pires, pela sua excecional contribuição para a inovação na Universidade de Coimbra. O galardão, entregue anualmente, contempla a atribuição de um diploma e uma recompensa no valor de 6.000 euros.&lt;/p&gt;
+&lt;p&gt;Nesta edição, o júri decidiu atribuir duas menções honrosas. Uma para “AR73/74 - Antes da Revolução | 1973-1974”, um projeto multimédia de Clara Almeida Santos e Francisco Sena Santos, centrado num conjunto de retratos que pretendem dar uma imagem de como era Portugal nos meses imediatamente antes da revolução de 25 de Abril de 1974. E outra para EcoTechLCA, uma ferramenta de avaliação da sustentabilidade ambiental para produtos e tecnologias inovadoras nas fases iniciais de desenvolvimento (ou seja, em escala laboratorial de produção), de Jade Müller.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://noticias.uc.pt/en/articles/j-norberto-pires-innovation-prize-awarded-to-electronic-patches-project-for-monitoring-health-data/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Read the original article in UC News&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I make stretchy electronics for medicine</title>
+      <link>http://localhost:1313/post/24-01-22-nature_mahmoud/</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-01-22-nature_mahmoud/</guid>
+      <description>&lt;p&gt;The Nature Feature on the theme &amp;ldquo;Where I Work&amp;rdquo;: Mahmoud Tavakoli works on wearable electronic devices that are less invasive than standard equipment.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://www.nature.com/articles/d41586-024-00174-w&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Read the full feature piece&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>CMU Portugal Researcher at Universidade de Coimbra wins a 2.8M€ ERC Grant Consolidator</title>
+      <link>http://localhost:1313/post/23-01-11-erc_funding/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/23-01-11-erc_funding/</guid>
+      <description>&lt;p&gt;Mahmoud Tavakoli, director of the “Soft and Printed Microelectronics Laboratory” at the Institute of Systems and Robotics (ISR) of the Faculty of Science and Technology of Universidade de Coimbra (FCTUC), has just won a prestigious European Research Council Consolidator grant (ERC) for five years.&lt;/p&gt;
+&lt;p&gt;The researcher will receive 2.8M€ to study futuristic electronic circuits, a topic he has been working on for several years under the scope of projects funded through Carnegie Mellon Portugal (CMU Portugal).
+The ERC Consolidator Grant will support the project “Liquid3D: 3D Printed, Bioinspired, Soft-Matter Electronics based on Liquid Metal Composites: Eco-Friendly, Resilient, Recyclable, and Repairable”, which is already underway and aims to provide design freedom to scientists, allowing them to print futuristic soft electronics and soft machines. «The idea is to make a transition from rigid, breakable, polluting and battery-dependent electronics to soft, resilient, recyclable, and self-powered electronics. In this context, the Liquid3D project will develop a series of innovative printable composites based on liquid metals to print 3D functional cells for sensing, stimulating, processing, and storing energy that is entangled in a distributed system and in a three-dimensional architecture», explains Mahmoud Tavakoli.&lt;/p&gt;
+&lt;p&gt;According to the researcher, “the most impressive thing about these systems is that they will allow a new level of bioinspiration in man-made devices, which is not yet possible”. For doing that, this project will develop novel printable biphasic composites based on liquid metal, and methods to print them, and finally procedures that allow recycling them.&lt;/p&gt;
+&lt;p&gt;“ERC projects fund high-risk, high-reward fundamental science. My goal is to redefine electronics and robotics», shares the researcher, concluding that he foresees a fundamental change in the materials used in electronics and robotics and how they will be made. “We’re talking about a wide range of soft, self-healing materials that can be printed together to permit a level of bioinspiration never seen before. This is due to a variety of new printable materials and printing technologies that will allow printing sensors, batteries, and electronic circuits to function side by side, like what we see in biology».&lt;/p&gt;
+&lt;p&gt;The Liquid3D project was launched this month of January and will permit the implementation of three new laboratories at FCTUC, namely the Laboratory of Soft and Printed Materials, which is intended to develop new materials for the next generation of electronics and robotics; the Digital Fabrication Laboratory, to create and validate technologies for additive manufacturing of the developed materials; and the Microscopy and Characterization Laboratory, to characterize electrical, mechanical and optical properties of the materials and systems produced.&lt;/p&gt;
+&lt;p&gt;Mahmoud Tavakoli manages a multi-disciplinary research team of Electrical, Chemical, Biomedical and Mechanical Engineers that combines expertise in nano materials, polymers, and liquid conductors for the applications of soft robotics, soft electronics, smart textile, smart plastics, and health monitoring. His research work at the “Soft and Printed Microelectronics Laboratory” from ISR Coimbra has been strongly supported by CMU Portugal Program and Fundação para a Ciência e a Tecnologia (FCT). Through this partnership, the FCTUC team has collaborated with the Soft Machines Lab from Carnegie Mellon University’s College of Engineering on three projects: Stretchtonics, one of CMU Portugal Entrepreneurial Research Initiatives; WoW, one of our Large Scale Collaborative Projects which is led by Glintt; and the Exploratory research project Exoskins. The research developed under this partnership includes stretchable electronics, wearable computing, wearable patient monitoring, printed sensors and electronics, digital health, and digital biomarkers.&lt;/p&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  &lt;li&gt;
+    &lt;a href=&#34;https://cmuportugal.org/media/cmu-portugal-researcher-at-universidade-de-coimbra-wins-a-2-8me-erc-grant-consolidator/&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Read the original text in CMU Portugal&amp;rsquo;s website&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>SIC news reel about reducing electronic waste</title>
+      <link>http://localhost:1313/post/22-09-07-interview_sic/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/22-09-07-interview_sic/</guid>
+      <description>&lt;p&gt;The Portuguese television network &amp;ldquo;SIC&amp;rdquo; had a news reel piece about our lab, regarding our techniques to produce stretchable electronics and reduce waste.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/m7cwjfS6DL4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exame Informatica program about E-Skin - The Electronic Skin</title>
+      <link>http://localhost:1313/post/21-09-15-interview_exameinformatica/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/21-09-15-interview_exameinformatica/</guid>
+      <description>&lt;p&gt;The Portuguese program of Exame Informatica regarding our lab&amp;rsquo;s development of E-Skins. You can see the piece below.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gNOeBlu_VC8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

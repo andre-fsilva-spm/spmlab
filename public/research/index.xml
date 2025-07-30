@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Areas | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/research/</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Areas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Research Areas</title>
+      <link>http://localhost:1313/research/</link>
+    </image>
+    
+    <item>
+      <title>E-Textiles</title>
+      <link>http://localhost:1313/research/etextiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/etextiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrophysiological Classification</title>
+      <link>http://localhost:1313/research/electrophysiological/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/electrophysiological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grasping and Printed Sensors</title>
+      <link>http://localhost:1313/research/grasping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/grasping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft &amp; Printed Electronics</title>
+      <link>http://localhost:1313/research/soft_printed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/soft_printed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft Actuators and Robotics</title>
+      <link>http://localhost:1313/research/softrobotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/softrobotics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

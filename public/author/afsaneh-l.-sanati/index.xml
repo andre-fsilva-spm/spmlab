@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Afsaneh L. Sanati | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/afsaneh-l.-sanati/</link>
+      <atom:link href="http://localhost:1313/author/afsaneh-l.-sanati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Afsaneh L. Sanati</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Afsaneh L. Sanati</title>
+      <link>http://localhost:1313/author/afsaneh-l.-sanati/</link>
+    </image>
+    
+    <item>
+      <title>Biphasic Graphene‐Oxide Liquid Metal Powder: Synthesis, Characterization, and Application in Energy Storage</title>
+      <link>http://localhost:1313/publication/sanati-biphasic-2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanati-biphasic-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphene‐Assisted Chemical Stabilization of Liquid Metal Nano Droplets for Liquid Metal Based Energy Storage</title>
+      <link>http://localhost:1313/publication/sanati-grapheneassisted-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanati-grapheneassisted-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printed Gallium Battery with Outstanding Energy Storage: Toward Fully Printed Battery‐on‐the‐Board Soft Electronics</title>
+      <link>http://localhost:1313/publication/freitas-3-d-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/freitas-3-d-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recyclable liquid metal – Graphene supercapacitor</title>
+      <link>http://localhost:1313/publication/sanati-recyclable-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanati-recyclable-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

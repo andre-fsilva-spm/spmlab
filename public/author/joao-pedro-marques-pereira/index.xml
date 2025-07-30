@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Pedro Marques Pereira | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/joao-pedro-marques-pereira/</link>
+      <atom:link href="http://localhost:1313/author/joao-pedro-marques-pereira/index.xml" rel="self" type="application/rss+xml" />
+    <description>João Pedro Marques Pereira</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>João Pedro Marques Pereira</title>
+      <link>http://localhost:1313/author/joao-pedro-marques-pereira/</link>
+    </image>
+    
+    <item>
+      <title>Digitally Printable Magnetic Liquid Metal Composite for Recyclable Soft‐Matter Electronics</title>
+      <link>http://localhost:1313/publication/hajalilou-digitally-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hajalilou-digitally-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
