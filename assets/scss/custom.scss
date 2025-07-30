@@ -1,0 +1,106 @@
+section.home-section {
+  background-color: aliceblue !important; }
+/* Hero block image size and order customization for Hugo Blox */
+.cta-button {
+  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  color: white;
+  border: none;
+}
+
+.hero-image-left{
+  /* Image on left, text on right layout */
+
+  /* Reorder columns: image first, text second */
+  .hero-media {
+    order: 1 !important;
+  }
+  .text-center.text-md-left {
+    order: 2 !important;
+  }
+  /* Image styling for left position */
+  .hero-media img {
+    width: 50% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    object-fit: cover !important;
+  }
+
+/*FONT SIZES*/
+/* Main title */
+.hero-title {
+  font-size: 1.5rem !important; /* Adjust as needed */
+}
+/* Subtitle/lead text */
+.hero-lead {
+  font-size: 1.0rem !important;
+}
+/* features lists */
+.hero-lead ul li {
+  font-size: 0.9rem !important;
+}
+/* CTA buttons */
+.cta-btns .btn {
+  font-size: 0.8rem !important;
+}
+}
+
+.hero-image-right{
+/* Image on left, text on right layout */
+
+  /* Reorder columns: image first, text second */
+  .hero-media {
+    order: 2 !important;
+  }
+  .text-center.text-md-left {
+    order: 1 !important;
+  }
+  /* Image styling for left position */
+  .hero-media img {
+    width: 50% !important;
+    height: auto !important;
+    max-width: 100% !important;
+    object-fit: cover !important;
+  }
+  /*FONT SIZES*/
+/* Main title */
+.hero-title {
+  font-size: 1.5rem !important; /* Adjust as needed */
+}
+/* Subtitle/lead text */
+.hero-lead {
+  font-size: 1.0rem !important;
+}
+/* features lists */
+.hero-lead ul li {
+  font-size: 0.9rem !important;
+}
+/* CTA buttons */
+.cta-btns .btn {
+  font-size: 0.8rem !important;
+}
+}
+
+
+// Portfolio card customization
+.card {
+  border-radius: 15px !important; // Rounded corners
+  overflow: hidden; // Ensures content respects rounded corners
+}
+.card-text {
+  background-color: #19323c !important; // Light gray background
+  padding: 20px !important;
+}
+// Target the title links within card-text
+.card-text h4 a {
+  color: #ffffff !important; // Dark blue title color
+  padding: 0px !important;
+}
+// Target the article-style description
+.card-text .article-style p {
+  color: #f3f4f5 !important; // Medium gray for description text
+  font-size: 0.7rem !important;
+}
+
+.navbar {
+  background-color: aliceblue !important; // Dark blue
+}

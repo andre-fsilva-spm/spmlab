@@ -1,0 +1,22 @@
+---
+title: CMU Portugal Researcher at Universidade de Coimbra wins a 2.8M€ ERC Grant Consolidator
+date: 2023-01-11
+image:
+  focal_point: 'top'
+---
+
+Mahmoud Tavakoli, director of the “Soft and Printed Microelectronics Laboratory” at the Institute of Systems and Robotics (ISR) of the Faculty of Science and Technology of Universidade de Coimbra (FCTUC), has just won a prestigious European Research Council Consolidator grant (ERC) for five years. 
+
+<!--more-->
+The researcher will receive 2.8M€ to study futuristic electronic circuits, a topic he has been working on for several years under the scope of projects funded through Carnegie Mellon Portugal (CMU Portugal).
+The ERC Consolidator Grant will support the project “Liquid3D: 3D Printed, Bioinspired, Soft-Matter Electronics based on Liquid Metal Composites: Eco-Friendly, Resilient, Recyclable, and Repairable”, which is already underway and aims to provide design freedom to scientists, allowing them to print futuristic soft electronics and soft machines. «The idea is to make a transition from rigid, breakable, polluting and battery-dependent electronics to soft, resilient, recyclable, and self-powered electronics. In this context, the Liquid3D project will develop a series of innovative printable composites based on liquid metals to print 3D functional cells for sensing, stimulating, processing, and storing energy that is entangled in a distributed system and in a three-dimensional architecture», explains Mahmoud Tavakoli.
+
+According to the researcher, “the most impressive thing about these systems is that they will allow a new level of bioinspiration in man-made devices, which is not yet possible”. For doing that, this project will develop novel printable biphasic composites based on liquid metal, and methods to print them, and finally procedures that allow recycling them.
+
+“ERC projects fund high-risk, high-reward fundamental science. My goal is to redefine electronics and robotics», shares the researcher, concluding that he foresees a fundamental change in the materials used in electronics and robotics and how they will be made. “We’re talking about a wide range of soft, self-healing materials that can be printed together to permit a level of bioinspiration never seen before. This is due to a variety of new printable materials and printing technologies that will allow printing sensors, batteries, and electronic circuits to function side by side, like what we see in biology».
+
+The Liquid3D project was launched this month of January and will permit the implementation of three new laboratories at FCTUC, namely the Laboratory of Soft and Printed Materials, which is intended to develop new materials for the next generation of electronics and robotics; the Digital Fabrication Laboratory, to create and validate technologies for additive manufacturing of the developed materials; and the Microscopy and Characterization Laboratory, to characterize electrical, mechanical and optical properties of the materials and systems produced.
+
+Mahmoud Tavakoli manages a multi-disciplinary research team of Electrical, Chemical, Biomedical and Mechanical Engineers that combines expertise in nano materials, polymers, and liquid conductors for the applications of soft robotics, soft electronics, smart textile, smart plastics, and health monitoring. His research work at the “Soft and Printed Microelectronics Laboratory” from ISR Coimbra has been strongly supported by CMU Portugal Program and Fundação para a Ciência e a Tecnologia (FCT). Through this partnership, the FCTUC team has collaborated with the Soft Machines Lab from Carnegie Mellon University’s College of Engineering on three projects: Stretchtonics, one of CMU Portugal Entrepreneurial Research Initiatives; WoW, one of our Large Scale Collaborative Projects which is led by Glintt; and the Exploratory research project Exoskins. The research developed under this partnership includes stretchable electronics, wearable computing, wearable patient monitoring, printed sensors and electronics, digital health, and digital biomarkers.
+
+{{% cta cta_link="https://cmuportugal.org/media/cmu-portugal-researcher-at-universidade-de-coimbra-wins-a-2-8me-erc-grant-consolidator/" cta_text="Read the original text in CMU Portugal's website" %}}

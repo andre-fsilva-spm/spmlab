@@ -1,0 +1,50 @@
+---
+title: High‐Performance Stretchable Gallium Battery for Wearable Electronics, Through
+  Synthesis of Foam Electrodes
+authors:
+- Elahe Parvini
+- Abdollah Hajalilou
+- Manuel Reis Carneiro
+- Pedro Alhais Lopes
+- Mahmoud Tavakoli
+date: '2025-07-01'
+publishDate: '2025-07-29T19:43:31.115980Z'
+publication_types:
+- article-journal
+publication: '*ENERGY & ENVIRONMENTAL MATERIALS*'
+doi: 10.1002/eem2.12889
+abstract: "The demand for sustainable and stretchable thin‐film printed batteries
+  for bioelectronics, wearables, and e‐textiles is rapidly increasing. Recently, we
+  developed a fully 3D‐printed soft‐matter thin‐film Ga‐Ag 2 O battery with 3R characteristics:
+  resilient to mechanical strain, repairable after damage, and recyclable. This battery
+  achieved a record‐breaking areal capacity of 26.37 mAh cm −2 , increasing to 30.32 mAh cm
+  −2 after 10 cycles under 100% strain. This performance stems from the synergistic
+  effects of gallium's liquid metal properties and the styrene‐isoprene‐styrene polymer
+  in the anode. Gallium's high specific capacity (1153.2 mAh g −1 ), deformability,
+  and self‐healing abilities, supported by its supercooled liquid phase, significantly
+  enhance the battery's resilience and efficiency. However, the cathode's lower theoretical
+  capacity, due to Ag 2 O (231.31 mAh g −1 ), remains a limitation. Traditional Ag
+  2 O‐carbon black‐styrene‐isoprene‐styrene cathodes experience rapid capacity decay
+  as only the surface area of the active materials interacts with the electrolyte.
+  To overcome this, we designed a carbon‐filled Ag 2 O foam electrode using a sacrificial
+  sugar template, increasing the effective surface area. This optimization enhanced
+  ion‐exchange efficiency, specific capacity, and cyclability, achieving a specific
+  capacity of 221.16 mAh g −1 . Consequently, the Ga‐Ag 2 O stretchable battery attained
+  a record areal capacity of 40.91 mAh cm −2 —double that of nonfoam electrodes—and
+  exhibited fivefold improved charge–discharge cycles. Using ultrastretchable Ag‐EGaIn‐styrene‐isoprene‐styrene
+  and carbon black‐styrene‐isoprene‐styrene current collectors, the battery's specific
+  capacity increased by 33% under 50% strain. Integrated into a soft‐matter smart
+  wristband for temperature monitoring, the battery demonstrated its promise for wearable
+  electronics."
+tags:
+- liquid3d
+links:
+- name: URL
+  url: https://onlinelibrary.wiley.com/doi/10.1002/eem2.12889
+- name: PDF
+  url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/eem2.12889
+- name: Open Repository
+  url: 
+- name: videos
+  url: 
+---
