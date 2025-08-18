@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Green Marques | Soft and Printed Microelectronics</title>
+    <link>http://localhost:1313/author/daniel-green-marques/</link>
+      <atom:link href="http://localhost:1313/author/daniel-green-marques/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Green Marques</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <title>Daniel Green Marques</title>
+      <link>http://localhost:1313/author/daniel-green-marques/</link>
+    </image>
+    
+    <item>
+      <title>Bi-Phasic Ag–In–Ga-Embedded Elastomer Inks for Digitally Printed, Ultra-Stretchable, Multi-layer Electronics</title>
+      <link>http://localhost:1313/publication/lopes-bi-phasic-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopes-bi-phasic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGaIn‐Assisted Room‐Temperature Sintering of Silver Nanoparticles for Stretchable, Inkjet‐Printed, Thin‐Film Electronics</title>
+      <link>http://localhost:1313/publication/tavakoli-egainassisted-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tavakoli-egainassisted-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

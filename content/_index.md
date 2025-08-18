@@ -67,7 +67,7 @@ sections:
           <p style="font-size: 1.2rem; margin-bottom: 30px; color: white;">
             The SPM lab is funded by ERC Project Liquid 3D 🇪🇺
           </p>
-            <a href="/liquid" style="background: transparent; color: white; padding: 15px 40px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; border: 2px solid white; transition: background 0.3s ease;">
+            <a href="./liquid/" style="background: transparent; color: white; padding: 15px 40px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 1.1rem; border: 2px solid white; transition: background 0.3s ease;">
               Learn More
             </a>
           </div>
@@ -79,7 +79,22 @@ sections:
         text_color_light: true
       spacing:
         padding: ['60px', '0', '60px', '0']
-     
+  
+ #Published articles
+  - block: collection
+    content:
+      title: Featured Articles
+      text: 
+      count: 5
+      filters:
+        folders:
+          - publication
+        tag: 'featured'
+        
+    design:
+      view: article-grid
+      columns: '1'
+
  #Latest News section
   - block: collection
     content:
@@ -125,7 +140,8 @@ sections:
       spacing:
         padding: ['60px', '0', '10px', '0']
  
-#Published articles
+
+  #Published articles
   - block: collection
     content:
       title: Latest Published Articles
@@ -135,10 +151,10 @@ sections:
         folders:
           - publication
         
+        
     design:
       view: compact
       columns: '1'
-  
     #featured in banner  
   - block: markdown
     content:

@@ -204,5 +204,37 @@
       <description></description>
     </item>
     
+    <item>
+      <title>3D Printed Stretchable Liquid Gallium Battery</title>
+      <link>http://localhost:1313/publication/costa-3-d-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/costa-3-d-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Writing of Eutectic Gallium–Indium Alloy Graphene‐Oxide Electrodes and Semitransparent Conductors</title>
+      <link>http://localhost:1313/publication/chambel-laser-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chambel-laser-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-Phasic Ag–In–Ga-Embedded Elastomer Inks for Digitally Printed, Ultra-Stretchable, Multi-layer Electronics</title>
+      <link>http://localhost:1313/publication/lopes-bi-phasic-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopes-bi-phasic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EGaIn‐Assisted Room‐Temperature Sintering of Silver Nanoparticles for Stretchable, Inkjet‐Printed, Thin‐Film Electronics</title>
+      <link>http://localhost:1313/publication/tavakoli-egainassisted-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tavakoli-egainassisted-2018/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -20,10 +20,10 @@ sections:
             brightness: 1
           parallax: true
           position: center
-          size: actual
+          size: contain
           text_color_light: true
       spacing:
-        padding: ['90px', '0', '600px', '0']
+        padding: ['0px', '0', '550px', '0']
         
   - block: people
     content:

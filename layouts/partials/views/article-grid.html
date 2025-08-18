@@ -1,0 +1,247 @@
+{{/* Hugo Blox Article Grid View */}}
+{{/* Save as: layouts/partials/views/article-grid.html */}}
+
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+  {{ $link = $item.Params.external_link }}
+{{ end }}
+
+<style>
+.article-grid-item {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  height: 100%;
+  margin-bottom: 1rem;
+}
+.article-grid-item:hover {
+  transform: scale(1.01);
+}
+.article-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.article-image-container {
+  overflow: hidden;
+  border-radius: 0.5rem;
+  background-color: #f0f8ff;
+  transition: all 0.3s ease;
+  position: relative;
+}
+.article-image {
+  transition: all 0.3s ease;
+  object-position: center;
+}
+.article-tag {
+  font-size: 0.5rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 1.25rem;
+  color: #0d6efd;
+}
+.article-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.375;
+  letter-spacing: -0.025em;
+  margin-top: 0.5rem;
+  color: #212529;
+}
+.article-title-link {
+  background: linear-gradient(to right, rgba(13, 110, 253, 0.3), rgba(13, 110, 253, 0.2));
+  background-size: 0px 10px;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  transition: background-size 0.5s ease;
+  text-decoration: none;
+  color: inherit;
+}
+.article-title-link:hover {
+  background-size: 100% 3px;
+  color: inherit;
+}
+.article-grid-item:hover .article-title-link {
+  background-size: 100% 10px;
+}
+.article-summary {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  color: #6c757d;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex-grow: 1;
+}
+.article-meta {
+  margin-top: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: #6c757d;
+  font-size: 0.875rem;
+}
+.author-avatar {
+  height: 1.25rem;
+  width: 1.25rem;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.meta-separator {
+  font-size: 0.75rem;
+  color: #dee2e6;
+}
+.external-link-icon {
+  height: 1em;
+  width: 1em;
+  margin-left: 0.5rem;
+  display: inline-flex;
+}
+/* Auto Grid Layout - Change these values to control columns */
+.article-grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjust minmax for different column sizes */
+  gap: 2rem;
+  width: 100%;
+}
+
+/* Responsive breakpoints for different column counts */
+@media (min-width: 992px) {
+  .article-grid-container {
+    grid-template-columns: repeat(5, 1fr); /* 3 columns on desktop */
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .article-grid-container {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on tablet */
+  }
+}
+@media (max-width: 767px) {
+  .article-grid-container {
+    grid-template-columns: 1fr; /* 1 column on mobile */
+  }
+}
+/* Change column count by modifying these classes */
+.article-grid-2-cols {
+  grid-template-columns: repeat(2, 1fr) !important;
+}
+.article-grid-4-cols {
+  grid-template-columns: repeat(4, 1fr) !important;
+}
+@media (max-width: 991px) {
+  .article-grid-4-cols {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
+{{/* Only output container div on first item */}}
+{{ if eq .index 0 }}
+<div class="article-grid-container">
+{{ end }}
+
+  <div class="article-grid-item">
+    <div class="article-card">
+      
+      {{/* Featured Image */}}
+      {{ $resource := partial "functions/get_featured_image.html" $item }}
+      {{ with $resource }}
+        {{ $anchor := $item.Params.image.focal_point | default "Center" }}
+        {{ $image := .Resize "960x" }}
+        {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+        
+        <div class="article-image-container">
+          <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+            <img alt="{{ $item.Title | plainify }}"
+                 class="article-image"
+                 decoding="async"
+                 fetchpriority="high" 
+                 
+                 loading="lazy" 
+                 src="{{ $image.RelPermalink }}"
+                 style="width: 100%; height: 100%; object-fit: contain;">
+          </a>
+        </div>
+      {{ end }}
+      
+      <div class="flex-grow-1 d-flex flex-column">
+        
+        <!-- {{/* Tags */}}
+        <div class="d-flex gap-3">
+          {{ range $index, $value := first 1 ($item.GetTerms "tags") }}
+            <a href="{{ .RelPermalink }}">
+              <span class="article-tag">{{ .Page.LinkTitle }}</span>
+            </a>
+          {{ end }}
+        </div> -->
+        
+        {{/* Title */}}
+        <h3 class="article-title">
+          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="article-title-link">
+            <span>
+              {{ $item.Title }}
+              {{ if $target }}
+                <i class="fas fa-external-link-alt external-link-icon"></i>
+              {{ end }}
+            </span>
+          </a>
+        </h3>
+        <!-- <span>
+              {{$item.Params.publication}}
+        </span> -->
+         <div class="article-meta">
+          
+            {{/* Author */}}
+            {{ if $item.Params.authors }}
+              <div class="d-flex align-items-center gap-3">
+                {{ range $index, $value := first 1 ($item.GetTerms "authors") }}
+                   <span class="text-truncate">
+                    {{ .Page.LinkTitle }}
+                  </span>
+                {{ end }}
+              </div>
+              <span class="meta-separator">•</span>
+            {{ end }}
+            
+            {{/* Date */}}
+            <time class="text-truncate" datetime="{{ time.Format "2006-01-02" $item.Date }}">
+              {{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}
+            </time>
+          </div>
+        
+        <!-- {{/* Meta Information */}}
+        <div class="mt-auto">
+          <div class="article-meta">
+          
+            {{/* Author */}}
+            {{ if $item.Params.authors }}
+              <div class="d-flex align-items-center gap-3">
+                {{ range $index, $value := first 1 ($item.GetTerms "authors") }}
+                   <span class="text-truncate">
+                    {{ .Page.LinkTitle }}
+                  </span>
+                {{ end }}
+              </div>
+              <span class="meta-separator">•</span>
+            {{ end }}
+            
+            {{/* Date */}}
+            <time class="text-truncate" datetime="{{ time.Format "2006-01-02" $item.Date }}">
+              {{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}
+            </time>
+          </div> 
+        </div>
+        -->
+      </div>
+    </div>
+  </div>
+
+{{/* This approach has a limitation - we can't easily close the container div on the last item */}}
+{{/* But CSS Grid will handle the layout properly regardless */}}
