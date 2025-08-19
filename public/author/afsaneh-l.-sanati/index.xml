@@ -5,11 +5,16 @@
     <link>http://localhost:1313/author/afsaneh-l.-sanati/</link>
       <atom:link href="http://localhost:1313/author/afsaneh-l.-sanati/index.xml" rel="self" type="application/rss+xml" />
     <description>Afsaneh L. Sanati</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/author/afsaneh-l.-sanati/avatar_hu_d4406cc2aa1c4e22.jpg</url>
       <title>Afsaneh L. Sanati</title>
       <link>http://localhost:1313/author/afsaneh-l.-sanati/</link>
+    </image>
+    
+  </channel>
+</rss>
+k>
     </image>
     
     <item>

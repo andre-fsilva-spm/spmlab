@@ -79,9 +79,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/andre-fsilva-spm/spmlab'
     content_dir: content
-    branch: main
+    branch: master
   avatar:
     gravatar: false
     shape: square
