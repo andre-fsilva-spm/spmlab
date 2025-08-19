@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marta Calisto Freitas | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/marta-calisto-freitas/</link>
-      <atom:link href="http://localhost:1313/author/marta-calisto-freitas/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/marta-calisto-freitas/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/marta-calisto-freitas/index.xml" rel="self" type="application/rss+xml" />
     <description>Marta Calisto Freitas</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Marta Calisto Freitas</title>
-      <link>http://localhost:1313/author/marta-calisto-freitas/</link>
+      <link>http://localhost:1313/spmlab/author/marta-calisto-freitas/</link>
     </image>
     
     <item>
       <title>3D Printed Gallium Battery with Outstanding Energy Storage: Toward Fully Printed Battery‐on‐the‐Board Soft Electronics</title>
-      <link>http://localhost:1313/publication/freitas-3-d-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/freitas-3-d-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printed Stretchable Liquid Gallium Battery</title>
-      <link>http://localhost:1313/publication/costa-3-d-2022/</link>
+      <link>http://localhost:1313/spmlab/publication/costa-3-d-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/costa-3-d-2022/</guid>
+      <guid>http://localhost:1313/spmlab/publication/costa-3-d-2022/</guid>
       <description></description>
     </item>
     

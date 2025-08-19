@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>André F. Silva | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/andre-f.-silva/</link>
-      <atom:link href="http://localhost:1313/author/andre-f.-silva/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/andre-f.-silva/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/andre-f.-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>André F. Silva</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>André F. Silva</title>
-      <link>http://localhost:1313/author/andre-f.-silva/</link>
+      <link>http://localhost:1313/spmlab/author/andre-f.-silva/</link>
     </image>
     
     <item>
       <title>Biphasic Graphene‐Oxide Liquid Metal Powder: Synthesis, Characterization, and Application in Energy Storage</title>
-      <link>http://localhost:1313/publication/sanati-biphasic-2025/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-biphasic-2025/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-biphasic-2025/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-biphasic-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3R Batteries: Resilient, Repairable, and Recyclable Based on Liquid Gallium Electrode</title>
-      <link>http://localhost:1313/publication/parvini-3-r-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/parvini-3-r-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parvini-3-r-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/parvini-3-r-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printed Gallium Battery with Outstanding Energy Storage: Toward Fully Printed Battery‐on‐the‐Board Soft Electronics</title>
-      <link>http://localhost:1313/publication/freitas-3-d-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/freitas-3-d-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recyclable liquid metal – Graphene supercapacitor</title>
-      <link>http://localhost:1313/publication/sanati-recyclable-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-recyclable-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printed Radiofrequency Sensing System For Robotic Applications</title>
-      <link>http://localhost:1313/publication/gharibi-3-d-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gharibi-3-d-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitally Printable Magnetic Liquid Metal Composite for Recyclable Soft‐Matter Electronics</title>
-      <link>http://localhost:1313/publication/hajalilou-digitally-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/hajalilou-digitally-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hajalilou-digitally-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/hajalilou-digitally-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radiofrequency System for Localizing a Robotic Hand on a Surface Tagged with Passive Resonators</title>
-      <link>http://localhost:1313/publication/gharibi-radiofrequency-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/gharibi-radiofrequency-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gharibi-radiofrequency-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/gharibi-radiofrequency-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitally Printed Liquid Metal Composite Antenna for Energy Harvesting: Toward Energy‐Autonomous Battery‐Free Wearable Bioelectronics</title>
-      <link>http://localhost:1313/publication/maranha-digitally-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/maranha-digitally-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printed Stretchable Liquid Gallium Battery</title>
-      <link>http://localhost:1313/publication/costa-3-d-2022/</link>
+      <link>http://localhost:1313/spmlab/publication/costa-3-d-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/costa-3-d-2022/</guid>
+      <guid>http://localhost:1313/spmlab/publication/costa-3-d-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bi-Phasic Ag–In–Ga-Embedded Elastomer Inks for Digitally Printed, Ultra-Stretchable, Multi-layer Electronics</title>
-      <link>http://localhost:1313/publication/lopes-bi-phasic-2021/</link>
+      <link>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lopes-bi-phasic-2021/</guid>
+      <guid>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</guid>
       <description></description>
     </item>
     

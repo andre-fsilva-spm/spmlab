@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulation | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/tag/simulation/</link>
-      <atom:link href="http://localhost:1313/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/tag/simulation/</link>
+      <atom:link href="http://localhost:1313/spmlab/tag/simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>Simulation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Simulation</title>
-      <link>http://localhost:1313/tag/simulation/</link>
+      <link>http://localhost:1313/spmlab/tag/simulation/</link>
     </image>
     
     <item>
       <title>3D Printed Radiofrequency Sensing System For Robotic Applications</title>
-      <link>http://localhost:1313/publication/gharibi-3-d-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gharibi-3-d-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</guid>
       <description></description>
     </item>
     

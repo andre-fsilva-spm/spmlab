@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wearable Electronics | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/tag/wearable-electronics/</link>
-      <atom:link href="http://localhost:1313/tag/wearable-electronics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/tag/wearable-electronics/</link>
+      <atom:link href="http://localhost:1313/spmlab/tag/wearable-electronics/index.xml" rel="self" type="application/rss+xml" />
     <description>Wearable Electronics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Wearable Electronics</title>
-      <link>http://localhost:1313/tag/wearable-electronics/</link>
+      <link>http://localhost:1313/spmlab/tag/wearable-electronics/</link>
     </image>
     
     <item>
       <title>Recyclable liquid metal – Graphene supercapacitor</title>
-      <link>http://localhost:1313/publication/sanati-recyclable-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-recyclable-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</guid>
       <description></description>
     </item>
     

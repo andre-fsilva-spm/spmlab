@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timur Nikitin | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/timur-nikitin/</link>
-      <atom:link href="http://localhost:1313/author/timur-nikitin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/timur-nikitin/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/timur-nikitin/index.xml" rel="self" type="application/rss+xml" />
     <description>Timur Nikitin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Timur Nikitin</title>
-      <link>http://localhost:1313/author/timur-nikitin/</link>
+      <link>http://localhost:1313/spmlab/author/timur-nikitin/</link>
     </image>
     
     <item>
       <title>Graphene‐Assisted Chemical Stabilization of Liquid Metal Nano Droplets for Liquid Metal Based Energy Storage</title>
-      <link>http://localhost:1313/publication/sanati-grapheneassisted-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-grapheneassisted-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-grapheneassisted-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-grapheneassisted-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laser Writing of Eutectic Gallium–Indium Alloy Graphene‐Oxide Electrodes and Semitransparent Conductors</title>
-      <link>http://localhost:1313/publication/chambel-laser-2022/</link>
+      <link>http://localhost:1313/spmlab/publication/chambel-laser-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chambel-laser-2022/</guid>
+      <guid>http://localhost:1313/spmlab/publication/chambel-laser-2022/</guid>
       <description></description>
     </item>
     

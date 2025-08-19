@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arménio C. Serra | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/armenio-c.-serra/</link>
-      <atom:link href="http://localhost:1313/author/armenio-c.-serra/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/armenio-c.-serra/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/armenio-c.-serra/index.xml" rel="self" type="application/rss+xml" />
     <description>Arménio C. Serra</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Arménio C. Serra</title>
-      <link>http://localhost:1313/author/armenio-c.-serra/</link>
+      <link>http://localhost:1313/spmlab/author/armenio-c.-serra/</link>
     </image>
     
     <item>
       <title>Photodegradable Non‐Drying Hydrogel Substrates for Liquid Metal Based Sustainable Soft‐Matter Electronics</title>
-      <link>http://localhost:1313/publication/fonseca-photodegradable-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/fonseca-photodegradable-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fonseca-photodegradable-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/fonseca-photodegradable-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facile Synthesis of Highly Stretchable, Tough, and Photodegradable Hydrogels</title>
-      <link>http://localhost:1313/publication/fonseca-facile-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/fonseca-facile-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fonseca-facile-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/fonseca-facile-2023/</guid>
       <description></description>
     </item>
     

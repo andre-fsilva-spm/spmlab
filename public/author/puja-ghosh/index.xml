@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puja Ghosh | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/puja-ghosh/</link>
-      <atom:link href="http://localhost:1313/author/puja-ghosh/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/puja-ghosh/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/puja-ghosh/index.xml" rel="self" type="application/rss+xml" />
     <description>Puja Ghosh</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Puja Ghosh</title>
-      <link>http://localhost:1313/author/puja-ghosh/</link>
+      <link>http://localhost:1313/spmlab/author/puja-ghosh/</link>
     </image>
     
     <item>
       <title>Nature-Driven Biocompatible Epidermal Electronic Skin for Real-Time Wireless Monitoring of Human Physiological Signals</title>
-      <link>http://localhost:1313/publication/kar-nature-driven-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/kar-nature-driven-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kar-nature-driven-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/kar-nature-driven-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SiO$_textrm2$ Nanoparticles Incorporated Poly(Vinylidene) Fluoride Composite for Efficient Piezoelectric Energy Harvesting and Dual‐Mode Sensing</title>
-      <link>http://localhost:1313/publication/kar-sio-2-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/kar-sio-2-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kar-sio-2-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/kar-sio-2-2023/</guid>
       <description></description>
     </item>
     

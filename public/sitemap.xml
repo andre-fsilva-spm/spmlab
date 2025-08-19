@@ -2,749 +2,749 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/liquid/</loc>
+    <loc>http://localhost:1313/spmlab/liquid/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
+    <loc>http://localhost:1313/spmlab/people/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/abdollah-hajalilou/</loc>
+    <loc>http://localhost:1313/spmlab/author/abdollah-hajalilou/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/spmlab/publication-type/article-journal/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/spmlab/authors/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/elahe-parvini/</loc>
+    <loc>http://localhost:1313/spmlab/author/elahe-parvini/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/parvini-highperformance-2025/</loc>
+    <loc>http://localhost:1313/spmlab/publication/parvini-highperformance-2025/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/liquid3d/</loc>
+    <loc>http://localhost:1313/spmlab/tag/liquid3d/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/mahmoud-tavakoli/</loc>
+    <loc>http://localhost:1313/spmlab/author/mahmoud-tavakoli/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/manuel-reis-carneiro/</loc>
+    <loc>http://localhost:1313/spmlab/author/manuel-reis-carneiro/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-alhais-lopes/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-alhais-lopes/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>http://localhost:1313/spmlab/publication_types/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://localhost:1313/spmlab/publication/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/spmlab/tags/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/afsaneh-l.-sanati/</loc>
+    <loc>http://localhost:1313/spmlab/author/afsaneh-l.-sanati/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/andre-f.-silva/</loc>
+    <loc>http://localhost:1313/spmlab/author/andre-f.-silva/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sanati-biphasic-2025/</loc>
+    <loc>http://localhost:1313/spmlab/publication/sanati-biphasic-2025/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/miguel-maranha/</loc>
+    <loc>http://localhost:1313/spmlab/author/miguel-maranha/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/anibal-de-almeida/</loc>
+    <loc>http://localhost:1313/spmlab/author/anibal-de-almeida/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/denis-rocha/</loc>
+    <loc>http://localhost:1313/spmlab/author/denis-rocha/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/rocha-miniaturized-2025/</loc>
+    <loc>http://localhost:1313/spmlab/publication/rocha-miniaturized-2025/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/paulo-peixoto/</loc>
+    <loc>http://localhost:1313/spmlab/author/paulo-peixoto/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-lopes/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-lopes/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/adas/</loc>
+    <loc>http://localhost:1313/spmlab/tag/adas/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/connectivity/</loc>
+    <loc>http://localhost:1313/spmlab/tag/connectivity/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/david-portugal/</loc>
+    <loc>http://localhost:1313/spmlab/author/david-portugal/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/nunes-deployment-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/nunes-deployment-2024/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/digital-healthcare/</loc>
+    <loc>http://localhost:1313/spmlab/tag/digital-healthcare/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/e-health/</loc>
+    <loc>http://localhost:1313/spmlab/tag/e-health/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/e/e/</loc>
+    <loc>http://localhost:1313/spmlab/tag/e/e/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/internet-of-things/</loc>
+    <loc>http://localhost:1313/spmlab/tag/internet-of-things/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/interoperability/</loc>
+    <loc>http://localhost:1313/spmlab/tag/interoperability/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jose-n.-faria/</loc>
+    <loc>http://localhost:1313/spmlab/author/jose-n.-faria/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/luis-gaspar/</loc>
+    <loc>http://localhost:1313/spmlab/author/luis-gaspar/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/medical-and-health-technologies/</loc>
+    <loc>http://localhost:1313/spmlab/tag/medical-and-health-technologies/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-fernandes/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-fernandes/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/performance-metrics/</loc>
+    <loc>http://localhost:1313/spmlab/tag/performance-metrics/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/smart-infrastructure/</loc>
+    <loc>http://localhost:1313/spmlab/tag/smart-infrastructure/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/tania-nunes/</loc>
+    <loc>http://localhost:1313/spmlab/author/tania-nunes/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/telmo-lopes/</loc>
+    <loc>http://localhost:1313/spmlab/author/telmo-lopes/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/wearable-technology/</loc>
+    <loc>http://localhost:1313/spmlab/tag/wearable-technology/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/m.-estrela-melo-jorge/</loc>
+    <loc>http://localhost:1313/spmlab/author/m.-estrela-melo-jorge/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/marta-freitas/</loc>
+    <loc>http://localhost:1313/spmlab/author/marta-freitas/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hajalilou-replacing-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/hajalilou-replacing-2024/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/tiago-a.-morgado/</loc>
+    <loc>http://localhost:1313/spmlab/author/tiago-a.-morgado/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/24-10-01-norbertopires_award/</loc>
+    <loc>http://localhost:1313/spmlab/post/24-10-01-norbertopires_award/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/spmlab/post/</loc>
     <lastmod>2024-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/parvini-3-r-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/parvini-3-r-2024/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/anibal-t.-de-almeida/</loc>
+    <loc>http://localhost:1313/spmlab/author/anibal-t.-de-almeida/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/carmel-majidi/</loc>
+    <loc>http://localhost:1313/spmlab/author/carmel-majidi/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sanati-grapheneassisted-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/sanati-grapheneassisted-2024/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/miguel-soares-maranha-tiago/</loc>
+    <loc>http://localhost:1313/spmlab/author/miguel-soares-maranha-tiago/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-miguel-patricio-fernandes/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-miguel-patricio-fernandes/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/rui-fausto/</loc>
+    <loc>http://localhost:1313/spmlab/author/rui-fausto/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/timur-nikitin/</loc>
+    <loc>http://localhost:1313/spmlab/author/timur-nikitin/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/parvini-galliumcarbon-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/parvini-galliumcarbon-2024/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/joao-pedro-goncalves-vilarinho/</loc>
+    <loc>http://localhost:1313/spmlab/author/joao-pedro-goncalves-vilarinho/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/freitas-3-d-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/featured/</loc>
+    <loc>http://localhost:1313/spmlab/tag/featured/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/marta-calisto-freitas/</loc>
+    <loc>http://localhost:1313/spmlab/author/marta-calisto-freitas/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/24-01-22-nature_mahmoud/</loc>
+    <loc>http://localhost:1313/spmlab/post/24-01-22-nature_mahmoud/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/alexandre-chambel/</loc>
+    <loc>http://localhost:1313/spmlab/author/alexandre-chambel/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/diogo-m.-oliveira/</loc>
+    <loc>http://localhost:1313/spmlab/author/diogo-m.-oliveira/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/eutectic-gallium-indium-liquid-metal/</loc>
+    <loc>http://localhost:1313/spmlab/tag/eutectic-gallium-indium-liquid-metal/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sanati-recyclable-2024/</loc>
+    <loc>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/recyclable-supercapacitor/</loc>
+    <loc>http://localhost:1313/spmlab/tag/recyclable-supercapacitor/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/reduced-graphene-oxide/</loc>
+    <loc>http://localhost:1313/spmlab/tag/reduced-graphene-oxide/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/stretchable-energy-storage/</loc>
+    <loc>http://localhost:1313/spmlab/tag/stretchable-energy-storage/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/wearable-electronics/</loc>
+    <loc>http://localhost:1313/spmlab/tag/wearable-electronics/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/barbara-canijo/</loc>
+    <loc>http://localhost:1313/spmlab/author/barbara-canijo/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/carolina-kunicki/</loc>
+    <loc>http://localhost:1313/spmlab/author/carolina-kunicki/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/chronic-recording-electrodes/</loc>
+    <loc>http://localhost:1313/spmlab/tag/chronic-recording-electrodes/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/emanuel-ferreira-fernandes/</loc>
+    <loc>http://localhost:1313/spmlab/author/emanuel-ferreira-fernandes/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/hippocampus/</loc>
+    <loc>http://localhost:1313/spmlab/tag/hippocampus/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/in-vivo-recordings/</loc>
+    <loc>http://localhost:1313/spmlab/tag/in-vivo-recordings/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/ferreira-fernandes-vivo-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/ferreira-fernandes-vivo-2023/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/joao-peca/</loc>
+    <loc>http://localhost:1313/spmlab/author/joao-peca/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/joao-vilarinho/</loc>
+    <loc>http://localhost:1313/spmlab/author/joao-vilarinho/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/mariana-laranjo/</loc>
+    <loc>http://localhost:1313/spmlab/author/mariana-laranjo/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/methodology/</loc>
+    <loc>http://localhost:1313/spmlab/tag/methodology/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-a.-ferreira/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-a.-ferreira/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-martins/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-martins/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/pfc/</loc>
+    <loc>http://localhost:1313/spmlab/tag/pfc/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/silicon-probes/</loc>
+    <loc>http://localhost:1313/spmlab/tag/silicon-probes/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/single-neuron-activity/</loc>
+    <loc>http://localhost:1313/spmlab/tag/single-neuron-activity/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/tiago-reis/</loc>
+    <loc>http://localhost:1313/spmlab/author/tiago-reis/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/aline-kuster/</loc>
+    <loc>http://localhost:1313/spmlab/author/aline-kuster/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/ana-c.-fonseca/</loc>
+    <loc>http://localhost:1313/spmlab/author/ana-c.-fonseca/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/armenio-c.-serra/</loc>
+    <loc>http://localhost:1313/spmlab/author/armenio-c.-serra/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/conductive-foam/</loc>
+    <loc>http://localhost:1313/spmlab/tag/conductive-foam/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/carneiro-conventional-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/carneiro-conventional-2023/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/reis-carneiro-galliumbased-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/reis-carneiro-galliumbased-2023/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/haptics/</loc>
+    <loc>http://localhost:1313/spmlab/tag/haptics/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jorge-f.-j.-coelho/</loc>
+    <loc>http://localhost:1313/spmlab/author/jorge-f.-j.-coelho/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/luis-rosa/</loc>
+    <loc>http://localhost:1313/spmlab/author/luis-rosa/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/spmlab/publication-type/paper-conference/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/fonseca-photodegradable-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/fonseca-photodegradable-2023/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/piezoresistive-materials/</loc>
+    <loc>http://localhost:1313/spmlab/tag/piezoresistive-materials/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/pressure-sensing/</loc>
+    <loc>http://localhost:1313/spmlab/tag/pressure-sensing/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/pressure-sensors/</loc>
+    <loc>http://localhost:1313/spmlab/tag/pressure-sensors/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/rita-g.-fonseca/</loc>
+    <loc>http://localhost:1313/spmlab/author/rita-g.-fonseca/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/robot-sensing-systems/</loc>
+    <loc>http://localhost:1313/spmlab/tag/robot-sensing-systems/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/sensors/</loc>
+    <loc>http://localhost:1313/spmlab/tag/sensors/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/shape/</loc>
+    <loc>http://localhost:1313/spmlab/tag/shape/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/soft-electronics/</loc>
+    <loc>http://localhost:1313/spmlab/tag/soft-electronics/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/soft-robotics/</loc>
+    <loc>http://localhost:1313/spmlab/tag/soft-robotics/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/wearable-computers/</loc>
+    <loc>http://localhost:1313/spmlab/tag/wearable-computers/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gharibi-3-d-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/anibal-t.-de-almeida/</loc>
+    <loc>http://localhost:1313/spmlab/author/anibal-t.-de-almeida/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/antenna/</loc>
+    <loc>http://localhost:1313/spmlab/tag/antenna/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/armin-gharibi/</loc>
+    <loc>http://localhost:1313/spmlab/author/armin-gharibi/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/fonseca-facile-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/fonseca-facile-2023/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/filippo-costa/</loc>
+    <loc>http://localhost:1313/spmlab/author/filippo-costa/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/francesco-de-bon/</loc>
+    <loc>http://localhost:1313/spmlab/author/francesco-de-bon/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/jose-r.-fernandes/</loc>
+    <loc>http://localhost:1313/spmlab/author/jose-r.-fernandes/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/localization/</loc>
+    <loc>http://localhost:1313/spmlab/tag/localization/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/patricia-pereira/</loc>
+    <loc>http://localhost:1313/spmlab/author/patricia-pereira/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-p.-fernandes/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-p.-fernandes/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/programming/</loc>
+    <loc>http://localhost:1313/spmlab/tag/programming/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/radio-frequency/</loc>
+    <loc>http://localhost:1313/spmlab/tag/radio-frequency/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/robotic-hand/</loc>
+    <loc>http://localhost:1313/spmlab/tag/robotic-hand/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/search-problems/</loc>
+    <loc>http://localhost:1313/spmlab/tag/search-problems/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/sensor/</loc>
+    <loc>http://localhost:1313/spmlab/tag/sensor/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/simone-genovesi/</loc>
+    <loc>http://localhost:1313/spmlab/author/simone-genovesi/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/simulation/</loc>
+    <loc>http://localhost:1313/spmlab/tag/simulation/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/three-dimensional-displays/</loc>
+    <loc>http://localhost:1313/spmlab/tag/three-dimensional-displays/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/joao-sgotti-veiga/</loc>
+    <loc>http://localhost:1313/spmlab/author/joao-sgotti-veiga/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/lining-yao/</loc>
+    <loc>http://localhost:1313/spmlab/author/lining-yao/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/michael-vinciguerra/</loc>
+    <loc>http://localhost:1313/spmlab/author/michael-vinciguerra/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/rafael-molter/</loc>
+    <loc>http://localhost:1313/spmlab/author/rafael-molter/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/sgotti-veiga-toward-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/anibal-de-almeida/</loc>
+    <loc>http://localhost:1313/spmlab/author/anibal-de-almeida/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/hajalilou-digitally-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/hajalilou-digitally-2023/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/dinesh-k.-patel/</loc>
+    <loc>http://localhost:1313/spmlab/author/dinesh-k.-patel/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/joao-pedro-marques-pereira/</loc>
+    <loc>http://localhost:1313/spmlab/author/joao-pedro-marques-pereira/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/michael-r.-vinciguerra/</loc>
+    <loc>http://localhost:1313/spmlab/author/michael-r.-vinciguerra/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/vinciguerra-multimaterial-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/vinciguerra-multimaterial-2023/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/wuzhou-zu/</loc>
+    <loc>http://localhost:1313/spmlab/author/wuzhou-zu/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/epsita-kar/</loc>
+    <loc>http://localhost:1313/spmlab/author/epsita-kar/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/kar-nature-driven-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/kar-nature-driven-2023/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/puja-ghosh/</loc>
+    <loc>http://localhost:1313/spmlab/author/puja-ghosh/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/shewli-pratihar/</loc>
+    <loc>http://localhost:1313/spmlab/author/shewli-pratihar/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/shrabanee-sen/</loc>
+    <loc>http://localhost:1313/spmlab/author/shrabanee-sen/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/a.-gharibi/</loc>
+    <loc>http://localhost:1313/spmlab/author/a.-gharibi/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/f.-costa/</loc>
+    <loc>http://localhost:1313/spmlab/author/f.-costa/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/impedance/</loc>
+    <loc>http://localhost:1313/spmlab/tag/impedance/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/m.-tavakoli/</loc>
+    <loc>http://localhost:1313/spmlab/author/m.-tavakoli/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/metals/</loc>
+    <loc>http://localhost:1313/spmlab/tag/metals/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/gharibi-radiofrequency-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/gharibi-radiofrequency-2023/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/resonant-frequency/</loc>
+    <loc>http://localhost:1313/spmlab/tag/resonant-frequency/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/s.-genovesi/</loc>
+    <loc>http://localhost:1313/spmlab/author/s.-genovesi/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tag/surface-impedance/</loc>
+    <loc>http://localhost:1313/spmlab/tag/surface-impedance/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/maranha-digitally-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/kar-sio-2-2023/</loc>
+    <loc>http://localhost:1313/spmlab/publication/kar-sio-2-2023/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/23-01-11-erc_funding/</loc>
+    <loc>http://localhost:1313/spmlab/post/23-01-11-erc_funding/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/spmlab/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>http://localhost:1313/spmlab/research/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/spmlab/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/22-09-07-interview_sic/</loc>
+    <loc>http://localhost:1313/spmlab/post/22-09-07-interview_sic/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/costa-3-d-2022/</loc>
+    <loc>http://localhost:1313/spmlab/publication/costa-3-d-2022/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/guilherme-costa/</loc>
+    <loc>http://localhost:1313/spmlab/author/guilherme-costa/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/chambel-laser-2022/</loc>
+    <loc>http://localhost:1313/spmlab/publication/chambel-laser-2022/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/21-09-15-interview_exameinformatica/</loc>
+    <loc>http://localhost:1313/spmlab/post/21-09-15-interview_exameinformatica/</loc>
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/lopes-bi-phasic-2021/</loc>
+    <loc>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/daniel-felix-fernandes/</loc>
+    <loc>http://localhost:1313/spmlab/author/daniel-felix-fernandes/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/daniel-green-marques/</loc>
+    <loc>http://localhost:1313/spmlab/author/daniel-green-marques/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/ana-p.-piedade/</loc>
+    <loc>http://localhost:1313/spmlab/author/ana-p.-piedade/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/tavakoli-egainassisted-2018/</loc>
+    <loc>http://localhost:1313/spmlab/publication/tavakoli-egainassisted-2018/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/hugo-paisana/</loc>
+    <loc>http://localhost:1313/spmlab/author/hugo-paisana/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/mohammad-h.-malakooti/</loc>
+    <loc>http://localhost:1313/spmlab/author/mohammad-h.-malakooti/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/yunsik-ohm/</loc>
+    <loc>http://localhost:1313/spmlab/author/yunsik-ohm/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/admin/</loc>
+    <loc>http://localhost:1313/spmlab/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/afsaneh-l.-sanati/</loc>
+    <loc>http://localhost:1313/spmlab/author/afsaneh-l.-sanati/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/anibal-traca-de-almeida/</loc>
+    <loc>http://localhost:1313/spmlab/author/anibal-traca-de-almeida/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/carmel-majidi/</loc>
+    <loc>http://localhost:1313/spmlab/author/carmel-majidi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/spmlab/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/etextiles/</loc>
+    <loc>http://localhost:1313/spmlab/event/etextiles/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/etextiles/</loc>
+    <loc>http://localhost:1313/spmlab/research/etextiles/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/electrophysiological/</loc>
+    <loc>http://localhost:1313/spmlab/event/electrophysiological/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/electrophysiological/</loc>
+    <loc>http://localhost:1313/spmlab/research/electrophysiological/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/grasping/</loc>
+    <loc>http://localhost:1313/spmlab/event/grasping/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/grasping/</loc>
+    <loc>http://localhost:1313/spmlab/research/grasping/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/mahmoud-tavakoli/</loc>
+    <loc>http://localhost:1313/spmlab/author/mahmoud-tavakoli/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/manuel-reis-carneiro/</loc>
+    <loc>http://localhost:1313/spmlab/author/manuel-reis-carneiro/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/author/pedro-filipe-alhais-lopes/</loc>
+    <loc>http://localhost:1313/spmlab/author/pedro-filipe-alhais-lopes/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>http://localhost:1313/spmlab/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/soft_printed/</loc>
+    <loc>http://localhost:1313/spmlab/event/soft_printed/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/soft_printed/</loc>
+    <loc>http://localhost:1313/spmlab/research/soft_printed/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/softrobotics/</loc>
+    <loc>http://localhost:1313/spmlab/event/softrobotics/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/research/softrobotics/</loc>
+    <loc>http://localhost:1313/spmlab/research/softrobotics/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

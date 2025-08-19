@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aníbal T. De Almeida | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/anibal-t.-de-almeida/</link>
-      <atom:link href="http://localhost:1313/author/anibal-t.-de-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/anibal-t.-de-almeida/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/anibal-t.-de-almeida/index.xml" rel="self" type="application/rss+xml" />
     <description>Aníbal T. De Almeida</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Aníbal T. De Almeida</title>
-      <link>http://localhost:1313/author/anibal-t.-de-almeida/</link>
+      <link>http://localhost:1313/spmlab/author/anibal-t.-de-almeida/</link>
     </image>
     
     <item>
       <title>Recyclable Thin‐Film Soft Electronics for Smart Packaging and E‐Skins</title>
-      <link>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitally Printed Liquid Metal Composite Antenna for Energy Harvesting: Toward Energy‐Autonomous Battery‐Free Wearable Bioelectronics</title>
-      <link>http://localhost:1313/publication/maranha-digitally-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/maranha-digitally-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laser Writing of Eutectic Gallium–Indium Alloy Graphene‐Oxide Electrodes and Semitransparent Conductors</title>
-      <link>http://localhost:1313/publication/chambel-laser-2022/</link>
+      <link>http://localhost:1313/spmlab/publication/chambel-laser-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chambel-laser-2022/</guid>
+      <guid>http://localhost:1313/spmlab/publication/chambel-laser-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bi-Phasic Ag–In–Ga-Embedded Elastomer Inks for Digitally Printed, Ultra-Stretchable, Multi-layer Electronics</title>
-      <link>http://localhost:1313/publication/lopes-bi-phasic-2021/</link>
+      <link>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lopes-bi-phasic-2021/</guid>
+      <guid>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</guid>
       <description></description>
     </item>
     

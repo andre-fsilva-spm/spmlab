@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lining Yao | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/lining-yao/</link>
-      <atom:link href="http://localhost:1313/author/lining-yao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/lining-yao/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/lining-yao/index.xml" rel="self" type="application/rss+xml" />
     <description>Lining Yao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Lining Yao</title>
-      <link>http://localhost:1313/author/lining-yao/</link>
+      <link>http://localhost:1313/spmlab/author/lining-yao/</link>
     </image>
     
     <item>
       <title>Toward Fully Printed Soft Actuators: UV‐Assisted Printing of Liquid Crystal Elastomers and Biphasic Liquid Metal Conductors</title>
-      <link>http://localhost:1313/publication/sgotti-veiga-toward-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sgotti-veiga-toward-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimaterial Printing of Liquid Crystal Elastomers with Integrated Stretchable Electronics</title>
-      <link>http://localhost:1313/publication/vinciguerra-multimaterial-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/vinciguerra-multimaterial-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vinciguerra-multimaterial-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/vinciguerra-multimaterial-2023/</guid>
       <description></description>
     </item>
     

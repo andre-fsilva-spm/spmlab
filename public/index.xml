@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/</link>
+      <atom:link href="http://localhost:1313/spmlab/index.xml" rel="self" type="application/rss+xml" />
     <description>Soft and Printed Microelectronics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Soft and Printed Microelectronics</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:1313/spmlab/</link>
     </image>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>http://localhost:1313/spmlab/people/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>http://localhost:1313/spmlab/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High‐Performance Stretchable Gallium Battery for Wearable Electronics, Through Synthesis of Foam Electrodes</title>
-      <link>http://localhost:1313/publication/parvini-highperformance-2025/</link>
+      <link>http://localhost:1313/spmlab/publication/parvini-highperformance-2025/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parvini-highperformance-2025/</guid>
+      <guid>http://localhost:1313/spmlab/publication/parvini-highperformance-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biphasic Graphene‐Oxide Liquid Metal Powder: Synthesis, Characterization, and Application in Energy Storage</title>
-      <link>http://localhost:1313/publication/sanati-biphasic-2025/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-biphasic-2025/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-biphasic-2025/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-biphasic-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miniaturized Liquid Metal Composite Circuits with Energy Harvesting Coils for Battery‐Free Bioelectronics and Optogenetics</title>
-      <link>http://localhost:1313/publication/rocha-miniaturized-2025/</link>
+      <link>http://localhost:1313/spmlab/publication/rocha-miniaturized-2025/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rocha-miniaturized-2025/</guid>
+      <guid>http://localhost:1313/spmlab/publication/rocha-miniaturized-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deployment and validation of a smart bed architecture for untethered patients with wireless biomonitoring stickers</title>
-      <link>http://localhost:1313/publication/nunes-deployment-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/nunes-deployment-2024/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nunes-deployment-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/nunes-deployment-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replacing the Gallium Oxide Shell with Conductive Ag: Toward a Printable and Recyclable Composite for Highly Stretchable Electronics, Electromagnetic Shielding, and Thermal Interfaces</title>
-      <link>http://localhost:1313/publication/hajalilou-replacing-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/hajalilou-replacing-2024/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hajalilou-replacing-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/hajalilou-replacing-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Norberto Pires Innovation Prize awarded to electronic patches project for monitoring health data</title>
-      <link>http://localhost:1313/post/24-10-01-norbertopires_award/</link>
+      <link>http://localhost:1313/spmlab/post/24-10-01-norbertopires_award/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-10-01-norbertopires_award/</guid>
+      <guid>http://localhost:1313/spmlab/post/24-10-01-norbertopires_award/</guid>
       <description>&lt;p&gt;E-skins could be a more practical and durable option for patients who need wearables to monitor health data. The prize was awarded to researchers from the UC Institute of Systems and Robotics.&lt;/p&gt;
 &lt;p&gt;The winner of the 3rd edition of the J. Norberto Pires Innovation Prize, awarded by the University of Coimbra (UC), is the &amp;lsquo;E-Skins&amp;rsquo; project, which focuses on developing electronic patches for biomonitoring health data, such as heartbeat and brain activity. The award was presented on Wednesday, the 25th of September, to researchers Mahmoud Tavakoli, Manuel Reis Carneiro, and Pedro Lopes, from the UC Institute of Systems and Robotics.&lt;/p&gt;
 &lt;p&gt;The winning project offers a more practical and durable solution for patients who need wearable devices for continuous, long-term electrophysiological health monitoring: a type of &amp;rsquo;electronic skin&amp;rsquo; that uses innovative materials and methods and can be worn comfortably for over a week.&lt;/p&gt;
@@ -86,41 +86,41 @@
     
     <item>
       <title>3R Batteries: Resilient, Repairable, and Recyclable Based on Liquid Gallium Electrode</title>
-      <link>http://localhost:1313/publication/parvini-3-r-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/parvini-3-r-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parvini-3-r-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/parvini-3-r-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphene‐Assisted Chemical Stabilization of Liquid Metal Nano Droplets for Liquid Metal Based Energy Storage</title>
-      <link>http://localhost:1313/publication/sanati-grapheneassisted-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-grapheneassisted-2024/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-grapheneassisted-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-grapheneassisted-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gallium–Carbon: A Universal Composite for Sustainable 3D Printing of Integrated Sensor–Heater–Battery Systems in Wearable and Recyclable Electronics</title>
-      <link>http://localhost:1313/publication/parvini-galliumcarbon-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/parvini-galliumcarbon-2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parvini-galliumcarbon-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/parvini-galliumcarbon-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printed Gallium Battery with Outstanding Energy Storage: Toward Fully Printed Battery‐on‐the‐Board Soft Electronics</title>
-      <link>http://localhost:1313/publication/freitas-3-d-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/freitas-3-d-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/freitas-3-d-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How I make stretchy electronics for medicine</title>
-      <link>http://localhost:1313/post/24-01-22-nature_mahmoud/</link>
+      <link>http://localhost:1313/spmlab/post/24-01-22-nature_mahmoud/</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-01-22-nature_mahmoud/</guid>
+      <guid>http://localhost:1313/spmlab/post/24-01-22-nature_mahmoud/</guid>
       <description>&lt;p&gt;The Nature Feature on the theme &amp;ldquo;Where I Work&amp;rdquo;: Mahmoud Tavakoli works on wearable electronic devices that are less invasive than standard equipment.&lt;/p&gt;
 &lt;ul class=&#34;cta-group&#34;&gt;
   &lt;li&gt;
@@ -131,129 +131,129 @@
     
     <item>
       <title>Recyclable liquid metal – Graphene supercapacitor</title>
-      <link>http://localhost:1313/publication/sanati-recyclable-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanati-recyclable-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sanati-recyclable-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In vivo recordings in freely behaving mice using independent silicon probes targeting multiple brain regions</title>
-      <link>http://localhost:1313/publication/ferreira-fernandes-vivo-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/ferreira-fernandes-vivo-2023/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ferreira-fernandes-vivo-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/ferreira-fernandes-vivo-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Conventional Non-Conductive Foams to Soft Piezoresistive Pressure Sensors: A Low-Cost Approach to Large-Area Pressure-Mapping</title>
-      <link>http://localhost:1313/publication/carneiro-conventional-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/carneiro-conventional-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/carneiro-conventional-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/carneiro-conventional-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gallium‐Based Liquid–Solid Biphasic Conductors for Soft Electronics</title>
-      <link>http://localhost:1313/publication/reis-carneiro-galliumbased-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/reis-carneiro-galliumbased-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/reis-carneiro-galliumbased-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/reis-carneiro-galliumbased-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photodegradable Non‐Drying Hydrogel Substrates for Liquid Metal Based Sustainable Soft‐Matter Electronics</title>
-      <link>http://localhost:1313/publication/fonseca-photodegradable-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/fonseca-photodegradable-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fonseca-photodegradable-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/fonseca-photodegradable-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printed Radiofrequency Sensing System For Robotic Applications</title>
-      <link>http://localhost:1313/publication/gharibi-3-d-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gharibi-3-d-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/gharibi-3-d-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facile Synthesis of Highly Stretchable, Tough, and Photodegradable Hydrogels</title>
-      <link>http://localhost:1313/publication/fonseca-facile-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/fonseca-facile-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fonseca-facile-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/fonseca-facile-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recyclable Thin‐Film Soft Electronics for Smart Packaging and E‐Skins</title>
-      <link>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Fully Printed Soft Actuators: UV‐Assisted Printing of Liquid Crystal Elastomers and Biphasic Liquid Metal Conductors</title>
-      <link>http://localhost:1313/publication/sgotti-veiga-toward-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sgotti-veiga-toward-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitally Printable Magnetic Liquid Metal Composite for Recyclable Soft‐Matter Electronics</title>
-      <link>http://localhost:1313/publication/hajalilou-digitally-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/hajalilou-digitally-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hajalilou-digitally-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/hajalilou-digitally-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimaterial Printing of Liquid Crystal Elastomers with Integrated Stretchable Electronics</title>
-      <link>http://localhost:1313/publication/vinciguerra-multimaterial-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/vinciguerra-multimaterial-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vinciguerra-multimaterial-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/vinciguerra-multimaterial-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature-Driven Biocompatible Epidermal Electronic Skin for Real-Time Wireless Monitoring of Human Physiological Signals</title>
-      <link>http://localhost:1313/publication/kar-nature-driven-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/kar-nature-driven-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kar-nature-driven-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/kar-nature-driven-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radiofrequency System for Localizing a Robotic Hand on a Surface Tagged with Passive Resonators</title>
-      <link>http://localhost:1313/publication/gharibi-radiofrequency-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/gharibi-radiofrequency-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gharibi-radiofrequency-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/gharibi-radiofrequency-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Digitally Printed Liquid Metal Composite Antenna for Energy Harvesting: Toward Energy‐Autonomous Battery‐Free Wearable Bioelectronics</title>
-      <link>http://localhost:1313/publication/maranha-digitally-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/maranha-digitally-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/maranha-digitally-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SiO$_textrm2$ Nanoparticles Incorporated Poly(Vinylidene) Fluoride Composite for Efficient Piezoelectric Energy Harvesting and Dual‐Mode Sensing</title>
-      <link>http://localhost:1313/publication/kar-sio-2-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/kar-sio-2-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kar-sio-2-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/kar-sio-2-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CMU Portugal Researcher at Universidade de Coimbra wins a 2.8M€ ERC Grant Consolidator</title>
-      <link>http://localhost:1313/post/23-01-11-erc_funding/</link>
+      <link>http://localhost:1313/spmlab/post/23-01-11-erc_funding/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/23-01-11-erc_funding/</guid>
+      <guid>http://localhost:1313/spmlab/post/23-01-11-erc_funding/</guid>
       <description>&lt;p&gt;Mahmoud Tavakoli, director of the “Soft and Printed Microelectronics Laboratory” at the Institute of Systems and Robotics (ISR) of the Faculty of Science and Technology of Universidade de Coimbra (FCTUC), has just won a prestigious European Research Council Consolidator grant (ERC) for five years.&lt;/p&gt;
 &lt;p&gt;The researcher will receive 2.8M€ to study futuristic electronic circuits, a topic he has been working on for several years under the scope of projects funded through Carnegie Mellon Portugal (CMU Portugal).
 The ERC Consolidator Grant will support the project “Liquid3D: 3D Printed, Bioinspired, Soft-Matter Electronics based on Liquid Metal Composites: Eco-Friendly, Resilient, Recyclable, and Repairable”, which is already underway and aims to provide design freedom to scientists, allowing them to print futuristic soft electronics and soft machines. «The idea is to make a transition from rigid, breakable, polluting and battery-dependent electronics to soft, resilient, recyclable, and self-powered electronics. In this context, the Liquid3D project will develop a series of innovative printable composites based on liquid metals to print 3D functional cells for sensing, stimulating, processing, and storing energy that is entangled in a distributed system and in a three-dimensional architecture», explains Mahmoud Tavakoli.&lt;/p&gt;
@@ -270,17 +270,17 @@ The ERC Consolidator Grant will support the project “Liquid3D: 3D Printed, Bio
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:1313/spmlab/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:1313/spmlab/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIC news reel about reducing electronic waste</title>
-      <link>http://localhost:1313/post/22-09-07-interview_sic/</link>
+      <link>http://localhost:1313/spmlab/post/22-09-07-interview_sic/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/22-09-07-interview_sic/</guid>
+      <guid>http://localhost:1313/spmlab/post/22-09-07-interview_sic/</guid>
       <description>&lt;p&gt;The Portuguese television network &amp;ldquo;SIC&amp;rdquo; had a news reel piece about our lab, regarding our techniques to produce stretchable electronics and reduce waste.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/m7cwjfS6DL4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -289,25 +289,25 @@ The ERC Consolidator Grant will support the project “Liquid3D: 3D Printed, Bio
     
     <item>
       <title>3D Printed Stretchable Liquid Gallium Battery</title>
-      <link>http://localhost:1313/publication/costa-3-d-2022/</link>
+      <link>http://localhost:1313/spmlab/publication/costa-3-d-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/costa-3-d-2022/</guid>
+      <guid>http://localhost:1313/spmlab/publication/costa-3-d-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laser Writing of Eutectic Gallium–Indium Alloy Graphene‐Oxide Electrodes and Semitransparent Conductors</title>
-      <link>http://localhost:1313/publication/chambel-laser-2022/</link>
+      <link>http://localhost:1313/spmlab/publication/chambel-laser-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chambel-laser-2022/</guid>
+      <guid>http://localhost:1313/spmlab/publication/chambel-laser-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exame Informatica program about E-Skin - The Electronic Skin</title>
-      <link>http://localhost:1313/post/21-09-15-interview_exameinformatica/</link>
+      <link>http://localhost:1313/spmlab/post/21-09-15-interview_exameinformatica/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/21-09-15-interview_exameinformatica/</guid>
+      <guid>http://localhost:1313/spmlab/post/21-09-15-interview_exameinformatica/</guid>
       <description>&lt;p&gt;The Portuguese program of Exame Informatica regarding our lab&amp;rsquo;s development of E-Skins. You can see the piece below.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gNOeBlu_VC8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -316,105 +316,105 @@ The ERC Consolidator Grant will support the project “Liquid3D: 3D Printed, Bio
     
     <item>
       <title>Bi-Phasic Ag–In–Ga-Embedded Elastomer Inks for Digitally Printed, Ultra-Stretchable, Multi-layer Electronics</title>
-      <link>http://localhost:1313/publication/lopes-bi-phasic-2021/</link>
+      <link>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lopes-bi-phasic-2021/</guid>
+      <guid>http://localhost:1313/spmlab/publication/lopes-bi-phasic-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EGaIn‐Assisted Room‐Temperature Sintering of Silver Nanoparticles for Stretchable, Inkjet‐Printed, Thin‐Film Electronics</title>
-      <link>http://localhost:1313/publication/tavakoli-egainassisted-2018/</link>
+      <link>http://localhost:1313/spmlab/publication/tavakoli-egainassisted-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tavakoli-egainassisted-2018/</guid>
+      <guid>http://localhost:1313/spmlab/publication/tavakoli-egainassisted-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>http://localhost:1313/spmlab/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>http://localhost:1313/spmlab/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-Textiles</title>
-      <link>http://localhost:1313/event/etextiles/</link>
+      <link>http://localhost:1313/spmlab/event/etextiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/etextiles/</guid>
+      <guid>http://localhost:1313/spmlab/event/etextiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-Textiles</title>
-      <link>http://localhost:1313/research/etextiles/</link>
+      <link>http://localhost:1313/spmlab/research/etextiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/etextiles/</guid>
+      <guid>http://localhost:1313/spmlab/research/etextiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electrophysiological Classification</title>
-      <link>http://localhost:1313/event/electrophysiological/</link>
+      <link>http://localhost:1313/spmlab/event/electrophysiological/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/electrophysiological/</guid>
+      <guid>http://localhost:1313/spmlab/event/electrophysiological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electrophysiological Classification</title>
-      <link>http://localhost:1313/research/electrophysiological/</link>
+      <link>http://localhost:1313/spmlab/research/electrophysiological/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/electrophysiological/</guid>
+      <guid>http://localhost:1313/spmlab/research/electrophysiological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grasping and Printed Sensors</title>
-      <link>http://localhost:1313/event/grasping/</link>
+      <link>http://localhost:1313/spmlab/event/grasping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/grasping/</guid>
+      <guid>http://localhost:1313/spmlab/event/grasping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grasping and Printed Sensors</title>
-      <link>http://localhost:1313/research/grasping/</link>
+      <link>http://localhost:1313/spmlab/research/grasping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/grasping/</guid>
+      <guid>http://localhost:1313/spmlab/research/grasping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soft &amp; Printed Electronics</title>
-      <link>http://localhost:1313/event/soft_printed/</link>
+      <link>http://localhost:1313/spmlab/event/soft_printed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/soft_printed/</guid>
+      <guid>http://localhost:1313/spmlab/event/soft_printed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soft &amp; Printed Electronics</title>
-      <link>http://localhost:1313/research/soft_printed/</link>
+      <link>http://localhost:1313/spmlab/research/soft_printed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/soft_printed/</guid>
+      <guid>http://localhost:1313/spmlab/research/soft_printed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soft Actuators and Robotics</title>
-      <link>http://localhost:1313/event/softrobotics/</link>
+      <link>http://localhost:1313/spmlab/event/softrobotics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/softrobotics/</guid>
+      <guid>http://localhost:1313/spmlab/event/softrobotics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soft Actuators and Robotics</title>
-      <link>http://localhost:1313/research/softrobotics/</link>
+      <link>http://localhost:1313/spmlab/research/softrobotics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/softrobotics/</guid>
+      <guid>http://localhost:1313/spmlab/research/softrobotics/</guid>
       <description></description>
     </item>
     

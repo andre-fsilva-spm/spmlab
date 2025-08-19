@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Reis Carneiro | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/manuel-reis-carneiro/</link>
-      <atom:link href="http://localhost:1313/author/manuel-reis-carneiro/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/manuel-reis-carneiro/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/manuel-reis-carneiro/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Reis Carneiro</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Manuel Reis Carneiro</title>
-      <link>http://localhost:1313/author/manuel-reis-carneiro/</link>
+      <link>http://localhost:1313/spmlab/author/manuel-reis-carneiro/</link>
     </image>
     
     <item>
       <title>High‐Performance Stretchable Gallium Battery for Wearable Electronics, Through Synthesis of Foam Electrodes</title>
-      <link>http://localhost:1313/publication/parvini-highperformance-2025/</link>
+      <link>http://localhost:1313/spmlab/publication/parvini-highperformance-2025/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parvini-highperformance-2025/</guid>
+      <guid>http://localhost:1313/spmlab/publication/parvini-highperformance-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Conventional Non-Conductive Foams to Soft Piezoresistive Pressure Sensors: A Low-Cost Approach to Large-Area Pressure-Mapping</title>
-      <link>http://localhost:1313/publication/carneiro-conventional-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/carneiro-conventional-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/carneiro-conventional-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/carneiro-conventional-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gallium‐Based Liquid–Solid Biphasic Conductors for Soft Electronics</title>
-      <link>http://localhost:1313/publication/reis-carneiro-galliumbased-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/reis-carneiro-galliumbased-2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/reis-carneiro-galliumbased-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/reis-carneiro-galliumbased-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recyclable Thin‐Film Soft Electronics for Smart Packaging and E‐Skins</title>
-      <link>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/reis-carneiro-recyclable-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/reis-carneiro-recyclable-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward Fully Printed Soft Actuators: UV‐Assisted Printing of Liquid Crystal Elastomers and Biphasic Liquid Metal Conductors</title>
-      <link>http://localhost:1313/publication/sgotti-veiga-toward-2023/</link>
+      <link>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sgotti-veiga-toward-2023/</guid>
+      <guid>http://localhost:1313/spmlab/publication/sgotti-veiga-toward-2023/</guid>
       <description></description>
     </item>
     

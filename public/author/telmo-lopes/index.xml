@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Telmo Lopes | Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/author/telmo-lopes/</link>
-      <atom:link href="http://localhost:1313/author/telmo-lopes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/author/telmo-lopes/</link>
+      <atom:link href="http://localhost:1313/spmlab/author/telmo-lopes/index.xml" rel="self" type="application/rss+xml" />
     <description>Telmo Lopes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Telmo Lopes</title>
-      <link>http://localhost:1313/author/telmo-lopes/</link>
+      <link>http://localhost:1313/spmlab/author/telmo-lopes/</link>
     </image>
     
     <item>
       <title>Deployment and validation of a smart bed architecture for untethered patients with wireless biomonitoring stickers</title>
-      <link>http://localhost:1313/publication/nunes-deployment-2024/</link>
+      <link>http://localhost:1313/spmlab/publication/nunes-deployment-2024/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nunes-deployment-2024/</guid>
+      <guid>http://localhost:1313/spmlab/publication/nunes-deployment-2024/</guid>
       <description></description>
     </item>
     

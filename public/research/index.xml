@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soft and Printed Microelectronics</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/spmlab/research/</link>
+      <atom:link href="http://localhost:1313/spmlab/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Soft and Printed Microelectronics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9bd811fe8c9149bf.png</url>
+      <url>http://localhost:1313/spmlab/media/icon_hu_9bd811fe8c9149bf.png</url>
       <title>Soft and Printed Microelectronics</title>
-      <link>http://localhost:1313/research/</link>
+      <link>http://localhost:1313/spmlab/research/</link>
     </image>
     
     <item>
       <title>E-Textiles</title>
-      <link>http://localhost:1313/research/etextiles/</link>
+      <link>http://localhost:1313/spmlab/research/etextiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/etextiles/</guid>
+      <guid>http://localhost:1313/spmlab/research/etextiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electrophysiological Classification</title>
-      <link>http://localhost:1313/research/electrophysiological/</link>
+      <link>http://localhost:1313/spmlab/research/electrophysiological/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/electrophysiological/</guid>
+      <guid>http://localhost:1313/spmlab/research/electrophysiological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grasping and Printed Sensors</title>
-      <link>http://localhost:1313/research/grasping/</link>
+      <link>http://localhost:1313/spmlab/research/grasping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/grasping/</guid>
+      <guid>http://localhost:1313/spmlab/research/grasping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soft &amp; Printed Electronics</title>
-      <link>http://localhost:1313/research/soft_printed/</link>
+      <link>http://localhost:1313/spmlab/research/soft_printed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/soft_printed/</guid>
+      <guid>http://localhost:1313/spmlab/research/soft_printed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soft Actuators and Robotics</title>
-      <link>http://localhost:1313/research/softrobotics/</link>
+      <link>http://localhost:1313/spmlab/research/softrobotics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/softrobotics/</guid>
+      <guid>http://localhost:1313/spmlab/research/softrobotics/</guid>
       <description></description>
     </item>
     
