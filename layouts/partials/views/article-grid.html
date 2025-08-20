@@ -27,14 +27,18 @@
 }
 .article-image-container {
   overflow: hidden;
-  border-radius: 0.5rem;
   background-color: #f0f8ff;
   transition: all 0.3s ease;
   position: relative;
+  height: 318px !important;
+  display: flex;
 }
 .article-image {
   transition: all 0.3s ease;
   object-position: center;
+  object-fit:contain !important;
+  height: 100% !important;
+  border-radius: 0.5rem;
 }
 .article-tag {
   font-size: 0.5rem;

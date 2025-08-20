@@ -6,81 +6,6 @@ section.home-section {
   color: white;
   border: none;
 }
-
-.hero-image-left{
-  /* Image on left, text on right layout */
-
-  /* Reorder columns: image first, text second */
-  .hero-media {
-    order: 1 !important;
-  }
-  .text-center.text-md-left {
-    order: 2 !important;
-  }
-  /* Image styling for left position */
-  .hero-media img {
-    width: 50% !important;
-    height: auto !important;
-    max-width: 100% !important;
-    object-fit: cover !important;
-  }
-
-/*FONT SIZES*/
-/* Main title */
-.hero-title {
-  font-size: 1.5rem !important; /* Adjust as needed */
-}
-/* Subtitle/lead text */
-.hero-lead {
-  font-size: 1.0rem !important;
-}
-/* features lists */
-.hero-lead ul li {
-  font-size: 0.9rem !important;
-}
-/* CTA buttons */
-.cta-btns .btn {
-  font-size: 0.8rem !important;
-}
-}
-
-.hero-image-right{
-/* Image on left, text on right layout */
-
-  /* Reorder columns: image first, text second */
-  .hero-media {
-    order: 2 !important;
-  }
-  .text-center.text-md-left {
-    order: 1 !important;
-  }
-  /* Image styling for left position */
-  .hero-media img {
-    width: 50% !important;
-    height: auto !important;
-    max-width: 100% !important;
-    object-fit: cover !important;
-  }
-  /*FONT SIZES*/
-/* Main title */
-.hero-title {
-  font-size: 1.5rem !important; /* Adjust as needed */
-}
-/* Subtitle/lead text */
-.hero-lead {
-  font-size: 1.0rem !important;
-}
-/* features lists */
-.hero-lead ul li {
-  font-size: 0.9rem !important;
-}
-/* CTA buttons */
-.cta-btns .btn {
-  font-size: 0.8rem !important;
-}
-}
-
-
 // Portfolio card customization
 .card {
   border-radius: 15px !important; // Rounded corners
@@ -100,7 +25,33 @@ section.home-section {
   color: #f3f4f5 !important; // Medium gray for description text
   font-size: 0.7rem !important;
 }
-
 .navbar {
   background-color: aliceblue !important; // Dark blue
+}
+
+#team_banner .hero-media img { //Team banner section 
+  border-radius: 10px !important; // Rounded corners 
+}
+#team_banner_people .row {
+  justify-content: center;
+    }
+    #team_banner_people .col-md-6:first-child {
+      display: none !important;  /* Hide the empty left column */
+    }
+    #team_banner_people .hero-media {
+      max-width: 100% !important;
+      flex: 0 0 100% !important;  /* Take full width */
+    }
+    #team_banner_people .hero-media img {
+      border-radius: 5px;
+      width: 100%;
+    }
+
+.collection-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
 }

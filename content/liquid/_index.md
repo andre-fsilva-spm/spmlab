@@ -33,7 +33,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: erc_logo.jpeg
+          filename: erc_logo.png
           filters:
             brightness: 1
           parallax: false

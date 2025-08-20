@@ -5,26 +5,21 @@ date: 2025-07-29
 type: landing
 
 sections:
-
-  - block: markdown
+  - block: hero
+    id: team_banner_people
     content:
-      title:
-      subtitle:
-      text:
+      title: 
+      text: 
+      image:
+        filename: team_banner.jpg
     design:
-      columns: '1'
       background:
-        image: 
-          filename: team.jpg
-          filters:
-            brightness: 1
-          parallax: true
-          position: center
-          size: contain
-          text_color_light: true
+        color: "#19323C"
+        text_color_light: true
       spacing:
-        padding: ['0px', '0', '550px', '0']
-        
+        padding: ['30px', '0', '40px', '0']
+         
+         
   - block: people
     content:
       title: Meet the Team
